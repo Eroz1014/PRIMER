@@ -1,2 +1,3 @@
 # PRIMER
-Primer phonegap build
+Primer phonegap build editar
+
